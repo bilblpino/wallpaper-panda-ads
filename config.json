@@ -23,7 +23,7 @@
   "ads": {
     "status": true,
     "main_ads": "admob",
-    "backup_ads": "facebook",
+    "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
@@ -31,7 +31,7 @@
         "banner_id": "ca-app-pub-3940256099942544/6300978111",
         "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
         "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-        "native_id": "ca-app-pub-3940256099942544/2247696110"
+        "native_id": "ca-app-pub-3940256099942544/"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
